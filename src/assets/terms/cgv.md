@@ -1,0 +1,81 @@
+### Introduction
+Les présentes conditions de vente sont conclues d'une part par [Paladium](https://paladium-pvp.fr/) et d'autre part, par toute personne physique ou morale souhaitant procéder à un achat via le site Internet [Paladium](https://paladium-pvp.fr/) dénommée ci-après « le Joueur».
+
+
+### 1 - Objet du contrat
+Les présentes conditions générales de vente ont pour objet de fixer les dispositions contractuelles entre Paladium et le Joueur, et les conditions applicables à tout achat effectué sur le site. L’acquisition d'un bien ou d'un service à travers le présent site implique une acceptation sans réserve par le Joueur des présentes conditions de vente.
+
+
+### 2 - Caractéristiques des produits, biens et services proposés
+Toutes les caractéristiques des produits et services proposés par Paladium sont présentés sur notre boutique virtuelle sur le site [Paladium](https://paladium-pvp.fr/). 
+    Chaque produit est accompagné d’un descriptif, ainsi que de son prix.
+    Tout les articles vendus sur la boutique de Paladium sont valides pendant toute la durée de la saison en cours sauf contre indication sur le descriptif de l'article
+
+
+### 3 - Tarifs
+Paladium se réserve le droit de modifier ses prix à tout moment, étant toutefois entendu que le prix figurant au catalogue le jour de la commande sera le seul applicable à l’acheteur. Les services proposés par Paladium ne sont en aucun cas affilié avec Mojang.
+
+
+### 4 - Commande
+Le Joueur passe commande sur le site Internet de Paladium. Pour acheter un ou plusieurs articles, il doit obligatoirement suivre le processus de commande suivant :
+    - Inscription sur le site
+    - Choisir l’article
+    - Valider l'achat, payer et recevoir l’achat
+    Paladium se réserve le droit d’annuler ou de refuser toute commande qui émanerait d’un Joueur avec lequel il existerait un litige relatif au paiement d’une commande précédente. Toute commande vaut acceptation des prix et descriptions des articles disponibles à la vente.
+
+
+### 5 - Modalités de paiement
+Le prix est exigible à la commande. 
+    Plusieurs modes de paiements sont possibles.
+    Paladium n’est pas responsable dès lors que la non validation de la commande résulte de cas de force majeur ou d’un problème chez les prestataires. 
+    La sécurité de la transaction financière est la responsabilité de notre prestataires Paypal 
+    Paladium décline toute responsabilité en cas de dysfonctionnement entraînant la non validation de la commande résultant de cas de force majeur ou d’un problème chez les prestataires.
+    Pour tout achat avec un prestataire fonctionnant par un système de micropaiement, le prix est plus élevé qu'avec PayPal pour un même produit et ce en raison du taux de commission prélevé par cette société. 
+    L’ensemble des données fournies et la confirmation enregistrée vaudront preuve de la transaction. 
+    La confirmation vaudra signature et acceptation des opérations effectuées.
+    Tout achat entraîne l'acceptation des conditions générales de vente de ces sociétés :
+    [PayPal](https://paypal.com/)
+    PayPal (Europe) S.à r.l. & Cie, S.C.A. (« PayPal Europe ») 
+    5e étage 
+    22-24 Boulevard Royal 
+    L-2449, Luxembourg 
+    (+352) 27 302 143
+
+### 6 - Capacité juridique, âge
+Pour commander sur le site [Paladium](https://paladium-pvp.fr/), vous attestez de manière ferme et sous votre propre et unique responsabilité que :
+    - Vous avez pleine capacité de jouissance et d’exercice pour contracter avec nous.
+    - Vous déclarez être âgé d’au moins 18 ans et avoir la capacité juridique de conclure le présent contrat. Il ne peut pas nous être exigé de vérifier l’âge des acheteurs du site.
+    Si l’acheteur est une personne physique mineure il se doit d'obtenir le consentement de ses parents/tuteurs avant de passer commande. L'autorité parentale reconnaît quant à elle avoir accepté les conditions générales et se porte garant du Joueur mineur. Toute utilisation du site [Paladium](https://paladium-pvp.fr/) et de ses services par le Joueur mineur est réalisée sous l'entière responsabilité des titulaires de l'autorité parentale.
+
+
+### 7 - Expédition et délais de livraison
+Dès qu’une commande est validée (soit après son paiement effectif) Paladium livrera le joueurs concerner . 
+    Les délais de livraison dépendent du service de paiement choisi. 
+    Toute commande passée sur le site Paladium est livrée immédiatement à compter du moment où le payement à été effectué. 
+    Paladium s’engage à livrer les commandes passées par le joueur dans les délais prévus. Si les dits articles n’ont pas été livrés dans un délai de sept (7) jours à compter de la date de livraison prévue lors de la commande, et si ce dépassement n’est pas lié à un cas de force majeure, le Joueur pourra procéder à la résolution de la vente, en contactant Paladium. 
+    Les sommes réglées par le Joueur lui seront alors intégralement remboursées.
+
+
+### 8 - Responsabilité
+Paladium, dans le processus de vente en ligne, n’est tenu que par une obligation de moyens; sa responsabilité ne pourra être engagée pour un dommage résultant de perturbations du réseau Internet tel que perte de données, intrusion, virus, rupture du service, autres problèmes involontaires ou d’un problème chez les prestataires (voir 5).
+
+
+### 9 - Rétractation et remboursement
+Par dérogation à l’article L.121-20-2 du Code français de la consommation et compte tenu de la nature du service (service immatériel et livré sans délai) le Joueur n’a plus droit de rétractation à compter de la date et heure de fourniture du service (article). 
+    Toutefois le Joueur a un droit de rétractation de 14 jours si le service commandé ne lui a pas encore été livré alors que son paiement est effectif. 
+    Dans ce cas il contactera Paladium en fournissant l’ensemble des indications nécessaires (compte utilisateur, numéro de paiement, etc.). Paladium procédera au remboursement dans un délai maximum de 30 jours.
+
+
+### 10 - Données à caractère personnel
+Conformément aux dispositions des articles 38 et suivants de la loi 78-17 du 6 janvier 1978 relative à l’informatique, aux fichiers et aux libertés, tout Joueur dispose d’un droit d’accès, de rectification et d’opposition aux données personnelles le concernant, en effectuant sa demande écrite et signée, accompagnée d’une copie du titre d’identité avec signature du titulaire de la pièce, en précisant l’adresse à laquelle la réponse doit être envoyée. 
+    Le site Paladium n'est pas enregistré à la CNIL.
+
+
+### 11 - Droits
+Le présent contrat est soumis aux lois françaises.
+
+
+### 12- Lexique
+Site : Le Site désigne le site Internet [Paladium](https://paladium-pvp.fr/) 
+    Joueur : Le joueur est toute personne physique ou morale qui utilise le Site ou l'un des services proposés par Paladium.
+    Saison: Durée Minimum 3 mois.
