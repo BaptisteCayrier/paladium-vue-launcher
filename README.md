@@ -1,4 +1,5 @@
-# paladium-nwjs
+# paladium-launcher-vue
+This project is a fork of the repository https://github.com/FaustinM/nwjs-vuejs
 
 ## Project setup
 ```
